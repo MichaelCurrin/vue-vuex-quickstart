@@ -68,6 +68,9 @@ $ yarn install
 $ yarn start
 ```
 
+Open the browser at:
+
+- http://localhost:8080/
 
 
 ## License
