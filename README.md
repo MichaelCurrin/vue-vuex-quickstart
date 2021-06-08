@@ -2,7 +2,6 @@
 > Starter template for a Vue 3 project using Vuex for state management
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
-[![Placeholder CI](https://github.com/MichaelCurrin/vue-vuex-quickstart/workflows/Placeholder%20CI/badge.svg)](https://github.com/MichaelCurrin/vue-vuex-quickstart/actions?query=workflow%3A%22Placeholder+CI%22)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vue-vuex-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/vue-vuex-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
