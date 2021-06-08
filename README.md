@@ -49,7 +49,7 @@ Vue 3 and Vuex were chosen. Linting, formatting and Babel were turned off.
 
 ## Resources
 
-For a set up without Vue, see Vue Quickstart:
+For a set up without Vuex, see Vue Quickstart:
 
 - [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
 
