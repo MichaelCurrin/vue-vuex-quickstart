@@ -28,7 +28,13 @@
 
 This project shows what code is needed to turn a plain Vue app into one that uses Vuex for state management.
 
-This was used to generated the base files:
+In particular, see this file, which is not in a standard Vue app.
+
+- [src/store/index.js](/src/store/index.js)
+
+For more info, see [Vuex](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/vue/vuex.html) resources.
+
+The Vue CLI was used generate the base files for this template:
 
 ```sh
 $ vue create my-app
