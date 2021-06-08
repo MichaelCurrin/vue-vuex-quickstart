@@ -6,6 +6,11 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vue-vuex-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/vue-vuex-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+[![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+
+[![Package - vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-vuex-quickstart/vue)](https://www.npmjs.com/package/vue)
+[![Package - vuex](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-vuex-quickstart/vuex)](https://www.npmjs.com/package/vuex)
+
 
 ## Preview
 
