@@ -47,6 +47,15 @@ $ vue create my-app
 Vue 3 and Vuex were chosen. Linting, formatting and Babel were turned off.
 
 
+## Resources
+
+For a set up without Vue, see Vue Quickstart:
+
+- [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
+
+To learn more about Vue and Vuex, see [Vue](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/vue/) resources.
+
+
 ## Installation
 
 ```sh
